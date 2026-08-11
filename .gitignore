@@ -1,0 +1,12 @@
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+codegen/
+__pycache__/
+*.pyc
+.venv/
+fastf1_cache/
+.DS_Store
+Thumbs.db

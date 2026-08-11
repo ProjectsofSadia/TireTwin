@@ -1,0 +1,17 @@
+Scenario,KendallTauVsBaseline,Ordering
+Topt_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+Topt_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+coolingBase_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+coolingBase_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+coolingSpeed_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+coolingSpeed_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+heatScale_0.75,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+heatScale_1.25,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+residual_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+residual_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+sigma_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+sigma_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+thermalCapacity_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+thermalCapacity_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+trackExchange_high,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
+trackExchange_low,1,Suzuka>Silverstone>Monaco>Bahrain>Monza
