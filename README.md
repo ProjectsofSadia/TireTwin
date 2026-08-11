@@ -1,6 +1,6 @@
 # TireTwin
 
-## Uncertainty-Aware Tire Thermal-Grip Sensitivity Analysis Using Formula 1 Telemetry
+## Modeling Tire Thermal Effects in Formula 1
 
 TireTwin v2 is the corrected research implementation following an external audit of the original model. It uses real 2024 Formula 1 qualifying telemetry, event weather, track curvature, a transparent effective thermal model, a smooth residual-grip formulation, iterative thermal/performance coupling, and paired uncertainty analysis.
 
