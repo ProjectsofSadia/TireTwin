@@ -35,4 +35,6 @@ Then in MATLAB:
 run("tests/runModelChecks.m")
 run("experiments/runResearchAnalysisV2.m")
 ```
+## Research Paper
 
+[Read the TireTwin Research Paper](paper/TireTwin_Final_ResearchPaper.pdf)
